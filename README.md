@@ -1,7 +1,7 @@
 <h1 align="center">NLW Heat - React.js</h1>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>
 </p>
 
 <p align="center">
