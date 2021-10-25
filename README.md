@@ -14,3 +14,4 @@ Esse projeto de Front-end para o evento NLW Heat da Rocketseat foi desenvolvido 
 - [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Socket.IO](https://socket.io/)
+- [Sass](https://sass-lang.com/)
